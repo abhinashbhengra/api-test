@@ -11,7 +11,7 @@ export const products = [
     title: "You Can WIN",
     author: "Shiv Khera",
     price: "5000",
-    categoryName: "non-fiction",
+    // categoryName: "non-fiction",
     image:
       "https://ik.imagekit.io/u6itcrvxy/heaphone_collection/sennheiser/Sennheiser04.png?updatedAt=1682678162624",
   },
